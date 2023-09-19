@@ -1,0 +1,80 @@
+{
+  "dashboard": {
+    "devices": [
+      "設備",
+      "Devices"
+    ],
+    "statisticType" : [
+      "統計タイプ",
+      "Statistics type"
+    ],
+    "numberOfNormalGroups": [
+      "通常グループ数",
+      "Number of normal groups"
+    ],
+    "numberOfABGroups": [
+      "ABグループ数",
+      "Number of AB groups"
+    ],
+    "runningTask": [
+      "実行中のタスク",
+      "Running task"
+    ],
+    "groupChartTitle": [
+      "グループ内のデバイスの最終送信日",
+      "Data transmission statistics"
+    ],
+    "group": [
+      "グループ",
+      "Group"
+    ],
+    "model": [
+      "モデル名",
+      "Model"
+    ],
+    "serial": [
+      "シリアル",
+      "Serial"
+    ],
+    "countChartName": [
+      "の台数",
+      "Number of"
+    ],
+    "fwChartName": [
+      "のFWバージョンごとの台数",
+      "Number of each FW version"
+    ],
+    "updateDateChartName": [
+      "の更新日ごとの台数",
+      "Number of each update date"
+    ],
+    "operationChartName": [
+      "のオペレーションごとの台数",
+      "Number of each operation of"
+    ],
+    "statusChartName": [
+      "のステータスごとの台数",
+      "Number of units per status"
+    ],
+    "pollingChartName" : [
+      "のポーリングごとの台数",
+      "Number of polls per"
+    ],
+    "targetChartName" : [
+      "の配信除外対象リスト",
+      "Number of items excluded by"
+    ],
+    "stageChartName" : [
+      "の段階指示実施日ごとの台数",
+      "Number of each stage instruction implementation date"
+    ],
+    "modelTitle" : [
+      "統計データ",
+      "Statistical data"
+    ],
+    "internetSetChartName" : [
+      "のインターネット接続方式ごとの台数",
+      "Number of units per internet connection method"
+    ]
+  }
+}

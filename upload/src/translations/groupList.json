@@ -1,0 +1,276 @@
+{
+  "groupList": {
+    "addDeviceToRegister": [
+      "登録するためにデバイスを追加してください。",
+      "Please add a device to register."
+    ],
+    "operationInstruction": [
+      "オペレーション指示",
+      "Operation Instruction"
+    ],
+    "operation": [
+      "オペレーション",
+      "Operation"
+    ],
+    "polling": [
+      "ポーリング",
+      "Polling"
+    ],
+    "pollingIntervalChange": [
+      "ポーリング間隔変更指示",
+      "Polling interval change instruction"
+    ],
+    "id": [
+      "ID",
+      "ID"
+    ],
+    "groupName": [
+      "グループ名",
+      "Group name"
+    ],
+    "categoryName": [
+      "カテゴリー",
+      "Category name"
+    ],
+    "numberOfRegistration": [
+      "登録台数",
+      "Number of registrations"
+    ],
+    "operating": [
+      "操作",
+      "operating"
+    ],
+    "groupList": [
+      "グループ情報",
+      "Group list"
+    ],
+    "modelName": [
+      "モデル名",
+      "Model name"
+    ],
+    "clear": [
+      "クリア",
+      "Clear"
+    ],
+    "createNewGroup": [
+      "新しいグループの作成",
+      "Create new group"
+    ],
+    "deleteGroup": [
+      "グループを削除",
+      "Delete group"
+    ],
+    "send": [
+      "送 信",
+      "Send"
+    ],
+    "cancel": [
+      "キャンセル",
+      "Cancel"
+    ],
+    "accessAuth": [
+      "アクセス権限",
+      "Access authority"
+    ],
+    "selectPollingIntervalChange": [
+      "グループ名「${groupName} : ${groupId} 」 に指示するポーリング間隔を入力してください。",
+      "Enter the polling interval indicated in [${groupName} : ${groupId}]."
+    ],
+    "selectOperationInstruction": [
+      "グループ名「${groupName} : ${groupId}」 に指示するオペレーションを選択してください。",
+      "Select the operation indicated in [${groupName} : ${groupId}」."
+    ],
+    "normalGroup": [
+      "通常グループ",
+      "Normal group"
+    ],
+    "ABTestGroup": [
+      "ABテストグループ",
+      "AB test group"
+    ],
+    "macAddress": [
+      "Macアドレス",
+      "MAC Address"
+    ],
+    "updateAt": [
+      "更新日時",
+      "Update at"
+    ],
+    "serial": [
+      "更新日時",
+      "Serial"
+    ],
+    "fw": [
+      "FW",
+      "FW"
+    ],
+    "update" : [
+      "編集",
+      "Edit"
+    ],
+    "delete" : [
+      "削除",
+      "Delete"
+    ],
+    "status": [
+      "ステータス",
+      "Status"
+    ],
+    "exclusionTarget": [
+      "除外対象",
+      "Exclusion target"
+    ],
+    "implementDate": [
+      "実施日時",
+      "Setting date"
+    ],
+    "outOf": [
+      "件中",
+      "Out of"
+    ],
+    "display": [
+      "件表示",
+      "Display"
+    ],
+    "5PerPage": [
+      "5 / ページ",
+      "5 / Page"
+    ],
+    "10PerPage": [
+      "10 / ページ",
+      "10 / Page"
+    ],
+    "all": [
+      "すべて",
+      "All"
+    ],
+    "changeSelectedDeviceGroup": [
+      "選択したデバイスをグループから削除",
+      "Delete selected devices from group"
+    ],
+    "noData": [
+      "データなし",
+      "No data"
+    ],
+    "sendInstruction": [
+      "指示送信",
+      "Send instruction"
+    ],
+    "pollingInterval": [
+      "ポーリング間隔",
+      "Polling interval"
+    ],
+    "selectAnOperation": [
+      "オペレーションを選択してください。",
+      "Please select an operation."
+    ],
+    "deleteGroupSuccess": [
+      "グループ 「${groupName} : ${groupId}」 を正常に削除しました。",
+      "Delete successfully Group [ ${groupName} ]."
+    ],
+    "deleteGroupConfirm": [
+      "グループ「 ${groupName} : ${groupId} 」を削除しますか？",
+      "Do you want to delete group  「 ${groupName} : ${groupId} 」 ?"
+    ],
+    "mustEnterGroupName": [
+      "グループ名を入力してください。",
+      "Please enter a group name."
+    ],
+    "groupNameLimitLength": [
+      "グループ名は100文字を超えてはいけません。",
+      "Group name must not exceed 100 characters."
+    ],
+    "addGroupSuccess": [
+      "グループを追加しました。",
+      "Add group successfully."
+    ],
+    "groupNameAlreadyExist": [
+      "入力したグループ名は既に登録済みです。",
+      "The group name you entered is already registered."
+    ],
+    "addGroupFail": [
+      "グループ追加失敗。",
+      "Add group failure."
+    ],
+    "registration" : [
+      "登録",
+      "Registration"
+    ],
+    "addGroup": [
+      "グループ登録",
+      "Register group"
+    ],
+    "updateGroup": [
+      "グループを更新",
+      "Update group"
+    ],
+    "updateGroupSuccess": [
+      "グループを正常に更新。",
+      "Update group success."
+    ],
+    "updateGroupFail": [
+      "グループ更新失敗。",
+      "Update group failure."
+    ],
+    "mustEnterPollingValue": [
+      "ポーリング間隔を入力してください。",
+      "Please enter the polling interval."
+    ],
+    "pollingValueInvalid": [
+      "ポーリング間隔を入力してください。",
+      "Please enter the polling interval."
+    ],
+    "excludeDeviceFromGroup": [
+      "デバイスをグループから削除",
+      "Exclude the device from the group"
+    ],
+    "excludeDeviceFromGroupConfirm": [
+      "選択されたデバイスをグループから削除しますか？",
+      "Do you want to exclude the selected device from the group?"
+    ],
+    "excludeDeviceFromGroupSuccess": [
+      "「${groupName} : ${groupId} 」から ${total} 件のデバイスを削除しました。",
+      "${total} device has been excluded from the group [${groupName}」."
+    ],
+    "excludeDeviceFromGroupFail": [
+      "デバイスをグループから削除に失敗しました。",
+      "Exclude device failed from the group."
+    ],
+    "setOperationSuccess": [
+      "セット操作は成功しました。",
+      "Set operation successfully."
+    ],
+    "setOperationFail": [
+      "設定操作が失敗しました。",
+      "Set operation failed."
+    ],
+    "setPollingSuccess": [
+      "ポーリングを正常に設定します。",
+      "Set operation successfully."
+    ],
+    "setPollingFail": [
+      "ポーリング設定に失敗しました。",
+      "Set polling failed."
+    ],
+    "groupIsBeingOperation": [
+      "「${groupName} : ${groupId}」 のデバイスに、オペレーション [${operationName}] を指示中です。",
+      "「${groupName} :  : ${groupId}] is being instructed to operate [${operationName}]."
+    ],
+    "groupIsBeingPolling": [
+      "「${groupName} : ${groupId}」 のデバイスに、ポーリング間隔[${polling}]秒を指示中です。",
+      "The polling interval [${polling} : ${groupId}] seconds is being indicated to the group [$groupName]."
+    ],
+    "deviceNotFoundInGroup": [
+      "デバイスがグループに見つかりません。",
+      "Device not found in group."
+    ],
+    "changeOperationConfirm": [
+      "「${groupName} : ${groupId}」グループ に、オペレーション「${operation}」を指示しますか？",
+      "Do you want instruct the operation 「${operation}」 to the group 「${groupName} : ${groupId}」 ?"
+    ],
+    "changePollingConfirm": [
+      "「${groupName} : ${groupId}」グループ に、ポーリング間隔「${polling}」秒を指示しますか？",
+      "Do you want to indicate the polling interval 「${polling}」 seconds to the regular group 「${groupName} : ${groupId}」?"
+    ]
+  }
+}

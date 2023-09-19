@@ -1,0 +1,184 @@
+{
+  "makeReservation": {
+    "macAddress": [
+      "対象デバイス",
+      "MAC address"
+    ],
+    "target": [
+      "測定対象",
+      "Target of measuring"
+    ],
+    "method": [
+      "測定方法",
+      "Method of  measurement reservation"
+    ],
+    "deviceType": [
+      "タイプ",
+      "Type"
+    ],
+    "measuringType": [
+      "測定種別",
+      "Type of measurement reservation"
+    ],
+    "cancel": [
+      "キャンセル",
+      "Cancel"
+    ],
+    "modalHeader": [
+      "測定予約",
+      "Create reservation measurement"
+    ],
+    "infoCreateHeader": [
+      "測定予約を設定してください。",
+      "Please set specification for reservation measurement"
+    ],
+    "close": [
+      "閉じる",
+      "Close"
+    ],
+    "makeTitleSuccess": [
+      "測定予約",
+      "Measurement Reservation"
+    ],
+    "makeTitleError": [
+      "測定予約エラー",
+      "Error of making a reservation of measuring"
+    ],
+    "localSide": [
+      "ローカル側",
+      "Local side"
+    ],
+    "internetSide": [
+      "インターネット側",
+      "Internet Side"
+    ],
+    "dns": [
+      "DNS応答時間",
+      "Reply time of dns"
+    ],
+    "lan": [
+      "LAN側ダウンロード",
+      "Download local side"
+    ],
+    "ping": [
+      "ping応答時間",
+      "Reply time of ping"
+    ],
+    "immediate": [
+      "今すぐ測定",
+      "Measuring immediately"
+    ],
+    "specific": [
+      "日時を指定して測定",
+      "Measuring at specified time"
+    ],
+    "regular": [
+      "定期的に測定",
+      "Measuring at regular time"
+    ],
+    "hour": [
+      "時",
+      "Hour"
+    ],
+    "minute": [
+      "分",
+      "Minute"
+    ],
+    "resultImmediate": [
+      "測定結果へ",
+      "Measurement Result"
+    ],
+    "measure": [
+      "測定",
+      "Measure"
+    ],
+    "listResult": [
+      "測定予約一覧へ",
+      "List Measurement Result"
+    ],
+    "cannotMeasure": [
+      "測定予約できません。",
+      "This measurement cannot be executed"
+    ],
+    "createMeasure": [
+      "測定",
+      "Create Measurement"
+    ],
+    "dbError": [
+      "データベースエラーです。",
+      "Database error is occurred."
+    ],
+    "dateTimeError": [
+      "測定可能な日時ではありません。",
+      "Input date and time which can’t measure network throughput."
+    ],
+    "duplicateError": [
+      "測定予約済の日時です。",
+      "Date and time have already set in this device."
+    ],
+    "timeIsNear":[
+      "現在時刻から15分以上空けてください。",
+      "Please allow at least 15 minutes from the current time."
+    ],
+    "numberUpper": [
+      "測定予約可能な上限に達しました。",
+      "This date and time have reached the upper limit."
+    ],
+    "numberReserUpper": [
+      "時間を分散させてください。",
+      "Please choose another time. "
+    ],
+    "reservationTermUpper": [
+      "期限を1年以下にしてください。",
+      "Please set date range within a year."
+    ],
+    "cancelFail": [
+      "戻る",
+      "Return"
+    ],
+    "executionDate": [
+      "測定実行日時",
+      "Execution Time"
+    ],
+    "headerBodyModalSuccessImmediateFirst": [
+      "測定を開始しました。",
+      "Measurement has been executed."
+    ],
+    "headerBodyModalSuccessImmediateSecond": [
+      "環境によって測定完了まで1~2分程度かかることがあります。",
+      "Measurement may take some minutes to be finished depending on environment."
+    ],
+    "headerBodyModalSuccessImmediateThird": [
+      "測定結果画面で結果が反映されるまでしばらくお待ちください。",
+      "Result of this measurement will be displayed on the Result Page. Please wait a few minutes."
+    ],
+    "headerBodyModalSuccessOther": [
+      "測定予約が完了しました。",
+      "Measurement has been reserved."
+    ],
+    "unknown": [
+      "不明",
+      "unknown"
+    ],
+    "addTimeTooltip": [
+      "時間を追加",
+      "Add time"
+    ],
+    "createMeasureBySpecifyTimeTooltip": [
+      "期間・時間（3つまで）を指定して測定できます",
+      "Measure by specifying the period and time (up to 3 times)"
+    ],
+    "titleRegularError": [
+      "エラー対象日：",
+      "Error target date"
+    ],
+    "limitRegularMeasuring": [
+      "1日内の測定回数を24回以内にしてください。",
+      "Keep the number of measurements within 24 times a day."
+    ],
+    "wan": [
+      "WAN側スループット",
+      "Throughput of WAN side"
+    ]
+  }
+}

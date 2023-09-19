@@ -1,0 +1,170 @@
+{
+  "global": {
+    "login": [
+      "ログイン",
+      "Login"
+    ],
+    "language": [
+      "言語",
+      "Language"
+    ],
+    "forgotPassword": [
+      "パスワード忘れ",
+      "Forgot Password"
+    ],
+    "japanese": [
+      "日本",
+      "Japanese"
+    ],
+    "english": [
+      "英語",
+      "English"
+    ],
+    "vietnamese": [
+      "ベトナム",
+      "Vietnamese"
+    ],
+    "email": [
+      "メール",
+      "Email"
+    ],
+    "password": [
+      "パスワード",
+      "Password"
+    ],
+    "back": [
+      "トップへ",
+      "Back"
+    ],
+    "dashboard": [
+      "ダッシュボード",
+      "Dashboard"
+    ],
+    "deviceList": [
+      "デバイス一覧",
+      "Device List"
+    ],
+    "deviceRegistration": [
+      "デバイス登録",
+      "Device Registration"
+    ],
+    "import": [
+      "デバイス一括登録",
+      "Import"
+    ],
+    "group": [
+      "グループ情報",
+      "Group"
+    ],
+    "page": [
+      "ページ",
+      "page"
+    ],
+    "confirm": [
+      "確認",
+      "confirm"
+    ],
+    "cancel": [
+      "キャンセル",
+      "Cancel"
+    ],
+    "search": [
+      "検索",
+      "Search"
+    ],
+    "clear": [
+      "クリア",
+      "Clear"
+    ],
+    "add": [
+      "追加",
+      "Add"
+    ],
+    "send": [
+      "送信",
+      "Send"
+    ],
+    "delete": [
+      "削除",
+      "delete"
+    ],
+    "messageUserUnAuthentication": [
+      "ユーザーを認証できません。",
+      "Unable to authenticate user."
+    ],
+    "messageServerError": [
+      "システムエラーが発生しました。再度やり直してください。",
+      "A system error has occurred. Please try again."
+    ],
+    "operation": {
+      "shutdown": [
+        "シャットダウン",
+        "Shut Down"
+      ],
+      "reboot": [
+        "再起動",
+        "Reboot"
+      ],
+      "fwDL": [
+        "ファームウェアダウンロード(IPカメラ用)",
+        "FWDL"
+      ],
+      "fwUp": [
+        "ファームウェア更新",
+        "FWUP"
+      ],
+      "networkInfomatinAcquisition": [
+        "ネットワーク情報取得",
+        "Network Infomation Acquisition"
+      ],
+      "settingChange": [
+        "設定変更",
+        "Setting Change"
+      ],
+      "throughputMeasure": [
+        "スループット測定",
+        "Throughput measure"
+      ],
+      "appup": [
+        "アプリ更新",
+        "Application Update"
+      ],
+      "uploadFile":[
+        "設定変更 β版",
+        "Change settings Beta version"
+      ]
+    },
+    "noOptions": [
+      "オプションが見つかりません。",
+      "No options found."
+    ],
+    "error": [
+      "エラー",
+      "Error"
+    ],
+    "success": [
+      "成功",
+      "success"
+    ],
+    "listReservation": [
+      "測定予約一覧 ",
+      "List for reservation of measuring"
+    ],
+    "historyReservation": [
+      "測定履歴",
+      "History of measuring"
+    ],
+    "deviceLog": [
+      "ログ一覧",
+      "Log list"
+    ],
+    "manual": [
+      "マニュアル",
+      "Manual"
+    ],
+    "deviceSearch": [
+      "デバイス検索",
+      "Device Search"
+    ]
+  }
+}

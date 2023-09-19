@@ -1,0 +1,48 @@
+{
+    "waitingDeviceList": {
+        "waitingDevices": [
+            "登録保留中デバイス",
+            "Waiting list for device registration."
+          ],
+        "deleteall": [
+            "すべて削除",
+            "delete all"
+          ],
+        "selectnum": [
+            "${num} 件 のデバイスを選択中",
+            "select ${num} device(s)"
+          ],
+          "deleteselecteddevicemsg": [
+            "現在選択中の ${num} 件のデバイスを保留中リストから削除しますか？",
+            "Delete selecting ${num} device(s). Is It OK ?"
+          ],
+          "deletealldevicemsg": [
+            "現在表示中の ${num} 件のデバイスを保留中リストから削除しますか？",
+            "Delete displaying ${num} device(s). Is It OK ?"
+          ],
+          "successDelete": [
+            "保留中デバイスの削除に成功しました。",
+            "Success delete devices"
+          ],
+          "successDeleteSomeDevices": [
+            "保留中デバイスの削除に一部成功しました。",
+            "Success delete some devices"
+          ],
+          "alreadyDeleted": [
+            "選択した保留中デバイスはすでに削除済みです。",
+            "Your selected device(s) is already deleted."
+          ],
+          "failDelete": [
+            "保留中デバイスの削除に失敗しました。",
+            "Failed to delete device(s)"
+          ],
+          "failTitle": [
+            "失敗",
+            "Failed"
+          ],
+          "successTitle": [
+            "成功",
+            "Success"
+          ]
+        }
+}

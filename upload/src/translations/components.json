@@ -1,0 +1,62 @@
+{
+    "home": [
+        "ホーム",
+        "Home"
+    ],
+    "deviceLink": [
+        "デバイスリンク",
+        "Device Link"
+    ],
+    "deviceMonitoring": [
+        "デバイス監視",
+        "Device Monitoring"
+    ],
+    "userManagement": [
+        "ユーザー管理",
+        "User Management"
+    ],
+    "hello_p": [
+        "こんにちは、",
+        "Hello, "
+    ],
+    "account": [
+        "アカウント",
+        "Account"
+    ],
+    "twoFactor": [
+        "二要素認証",
+        "Two Factor"
+    ],
+    "emailSettings": [
+        "メール設定",
+        "Email settings"
+    ],
+    "passwordSettings": [
+        "パスワード設定",
+        "Password settings"
+    ],
+    "withdrawal": [
+        "退会",
+        "Withdrawal"
+    ],
+    "logout": [
+        "ログアウト",
+        "Logout"
+    ],
+    "display": [
+        "件表示",
+        "Display"
+    ],
+    "outOf": [
+        "件中",
+        "Out of"
+    ],
+    "other": [
+        "その他",
+        "Others."
+    ],
+    "noResultsFound": [
+        "結果が見つかりません。",
+        "No results found."
+    ]
+}

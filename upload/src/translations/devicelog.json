@@ -1,0 +1,92 @@
+{
+  "devicelog": {
+    "deviceLogList": [
+      "ログ一覧",
+      "Log list"
+    ],
+    "macAddress": [
+      "MACアドレス",
+      "MAC address"
+    ],
+    "logType": [
+      "ログタイプ",
+      "Log item"
+    ],
+    "version": [
+      "ログバージョン",
+      "Version"
+    ],
+    "retFWUP": [
+      "RetFWUP",
+      "RetFWUP"
+    ],
+    "xmlVer": [
+      "XMLVer",
+      "XMLVer"
+    ],
+    "logCreateAtFrom": [
+      "ログ作成日(から～) ",
+      "Log Time create date from"
+    ],
+    "logCreateAtTo": [
+      "ログ作成日(～まで) ",
+      "Log Time create date to"
+    ],
+    "createAtFrom": [
+      "ログ受信日(から～) ",
+      "Created date From"
+    ],
+    "createAtTo": [
+      "ログ受信日(～まで) ",
+      "Created date To"
+    ],
+    "setDate": [
+      "ログ受信日時",
+      "Created Date From"
+    ],
+    "saveDate": [
+      "ログ作成日時",
+      "Created Date To"
+    ],
+    "modelName": [
+      "モデル名",
+      "Model name"
+    ],
+    "serial": [
+      "シリアル",
+      "Serial"
+    ],
+    "fwup": [
+      "FWUP",
+      "FWUP"
+    ],
+    "connection_state": [
+      "接続状態",
+      "Connection state"
+    ],
+    "E00": [
+      "E00",
+      "E00"
+    ],
+    "E01X": [
+      "E01X",
+      "E01X"
+    ],
+    "E02X": [
+      "E02X",
+      "E02X"
+    ],
+    "E01F": [
+      "E01F",
+      "E01F"
+    ],
+    "E02F": [
+      "E02F",
+      "E02F"
+    ],
+    "E99": [
+      "E99",
+      "E99"
+    ]
+  }
+}

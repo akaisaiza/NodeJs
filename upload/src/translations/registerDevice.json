@@ -1,0 +1,148 @@
+{
+  "registerDevice": {
+    "modelName": [
+      "モデル名",
+      "Model name"
+    ],
+    "macAddress": [
+      "MACアドレス",
+      "MAC Address"
+    ],
+    "updateDate": [
+      "更新日時",
+      "Update date"
+    ],
+    "fw": [
+      "FW",
+      "FW"
+    ],
+    "action": [
+      "アクション",
+      "Action"
+    ],
+    "cancel": [
+      "取り消し",
+      "Cancel"
+    ],
+    "traderAccount": [
+      "管理者アカウント",
+      "Trader account"
+    ],
+    "companyName": [
+      "会社名",
+      "Company Name"
+    ],
+    "endUserAccount": [
+      "デバイス登録アカウント",
+      "End user account"
+    ],
+    "noResultFound": [
+      "結果が見つかりません",
+      "No result found"
+    ],
+    "deviceAlreadyRegisteredWithUser": [
+      "デバイスは他のユーザーに登録されています。",
+      "The device has been registered with other end users."
+    ],
+    "serial": [
+      "シリアル",
+      "Serial"
+    ],
+    "email": [
+      "メールアドレス",
+      "email"
+    ],
+    "add": [
+      "追加",
+      "Add"
+    ],
+    "registrationSuccess": [
+      "デバイスを登録しました。",
+      "Registration devices successful."
+    ],
+    "registrationFail": [
+      "デバイスの登録に失敗しました。",
+      "An error has occured"
+    ],
+    "deviceRegistration": [
+      "デバイス登録",
+      "Device registration"
+    ],
+    "macAddressNotBlank": [
+      "MACアドレスは空白にできません。",
+      "MAC address can not be blank."
+    ],
+    "macAddressWrongFormat": [
+      "MACアドレスに次の文字のみを指定する必要があります。0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F",
+      "You need to specify only the following characters in the MAC address. 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F"
+    ],
+    "serialNotBlank": [
+      "シリアルは空白にできません。",
+      "Serials can not be blank."
+    ],
+    "serialMaxLength": [
+      "シリアルは16桁まで指定してください。",
+      "Specify 16 digits for serial."
+    ],
+    "deviceNotFound": [
+      "デバイスが見つかりません。",
+      "Device not found."
+    ],
+    "deviceExitsInList" : [
+      "デバイスは登録一覧に存在します。",
+      "Device exists in registration list."
+    ],
+    "userNotExist" : [
+      "ユーザーは存在しません。",
+      "User does not exist."
+    ],
+    "userNotEndUser" : [
+      "デバイス登録アカウントではないので、デバイスを登録できません。",
+      "User is not End_user and cannot register a device."
+    ],
+    "wrongEmailFormat": [
+      "メールアドレスを正しく入力してください。",
+      "Please enter email address correctly."
+    ],
+    "addDeviceToRegister": [
+      "登録するためにデバイスを追加してください。",
+      "Please add a device to register."
+    ],
+    "emailNotBlank": [
+      "メールアドレスは空白にできません。",
+      "Serials can not be blank."
+    ],
+    "emailWrongFormat": [
+      "メールアドレスに無効な文字列が含まれています。",
+      "Serials can not be blank."
+    ],
+    "waitingListNotfound": [
+      "保留中のデバイスはありません。",
+      "not found waiting devices."
+    ],
+    "waitingDevices": [
+      "登録保留中デバイス",
+      "Waiting list for device registration."
+    ],
+    "foundWaitingDevices": [
+      "登録保留中のデバイスが${param}件あります。このラベルをクリックすると詳細を確認できます。",
+      "${param} waiting device(s) available.Please click here to watch detail."
+    ],
+    "template1_admin": [
+      "1. 会社とデバイス登録アカウントを入力し、「検索」ボタンを押下してください。",
+      "1. Enter your company and end-user account and press the 「Search」button."
+    ],
+    "template1_company": [
+      "1. デバイス登録アカウントを入力し、「検索」ボタンを押下してください。",
+      "1. Enter the end-user account and press the 「Search」button."
+    ],
+    "template2": [
+      "2. MACアドレスとシリアルを入力し、「追加」ボタンを押下してください。",
+      "2. Enter the MAC address and serial and click the 「Add」 button. You can 「Add」 more than one."
+    ],
+    "template3": [
+      "3.「デバイス登録」ボタンを押下してください。手順2でさらに「追加」をすると、複数台まとめて登録することができます。",
+      "3. Click the 「Device Registration」button."
+    ]
+  }
+}

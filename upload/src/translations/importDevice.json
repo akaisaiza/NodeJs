@@ -1,0 +1,184 @@
+{
+  "importDevice": {
+    "row": [
+      "行",
+      "Row"
+    ],
+    "title": [
+      "デバイス一括登録",
+      "User device batch registration (import)"
+    ],
+    "success": [
+      "成功",
+      "Success"
+    ],
+    "macAddress": [
+      "MACアドレス",
+      "MAC Address"
+    ],
+    "modelName": [
+      "モデル名",
+      "Model name"
+    ],
+    "emailAddress": [
+      "メールアドレス",
+      "Email address"
+    ],
+    "state": [
+      "状態",
+      "State"
+    ],
+    "selectFileToUpload": [
+      "2. CSVファイルを参照から選択し、アップロードしてください。一度に読み込めるデータの数は1000件までです。",
+      "2. Select csv file and click upload button.(this system can read 1000 items per file.)"
+    ],
+    "reference": [
+      "参照",
+      "Reference"
+    ],
+    "fileNotSelected": [
+      "ファイルが選択されていません",
+      "File not selected"
+    ],
+    "return": [
+      "戻る",
+      "Return"
+    ],
+    "serial": [
+      "シリアル",
+      "Serial"
+    ],
+    "status": [
+      "ステータス",
+      "Status"
+    ],
+    "upload": [
+      "アップロード",
+      "Upload"
+    ],
+    "capture": [
+      "取り込み",
+      "Capture"
+    ],
+    "validDataList": [
+      "有効データ一覧",
+      "Valid data list"
+    ],
+    "invalidDataList": [
+      "無効なデータ一覧",
+      "Invalid data list"
+    ],
+    "importConfirm": [
+      "デバイス一覧を取込しますか？",
+      "Do you want to import the device list?"
+    ],
+    "wrongFormatFile": [
+      "アップロードする.CSVファイルを選択してください。",
+      "Please select a .CSV file to upload."
+    ],
+    "upload_error_1": [
+      "アップロードしたファイルがありません。",
+      "Please upload a file."
+    ],
+    "upload_error_2": [
+      "アップロードサイズの上限を超えています。",
+      "File too large."
+    ],
+    "upload_error_3": [
+      "CSVファイル内容が空白です。",
+      "Content is Empty."
+    ],
+    "upload_error_4": [
+      "CSVファイル内容が許容範囲を超えています。",
+      "Too many rows. Limit is 100 rows."
+    ],
+    "upload_error_5": [
+      "アップロードしたファイルの形式が正しくありません。",
+      "Upload wrong type. Only csv file are allowed."
+    ],
+    "upload_error_6": [
+      "アップロードしたファイル数が許容範囲を超えています。",
+      "Too many files."
+    ],
+    "upload_error_7": [
+      "メールアドレス形式が正しくありません。",
+      "Invalid Email Format."
+    ],
+    "upload_error_8": [
+      "項目が足りません。",
+      "Data missing."
+    ],
+    "upload_error_9": [
+      "メールが重複しています。",
+      "Email Duplicate."
+    ],
+    "upload_error_12": [
+      "MACアドレスの形式は正しくありません。",
+      "Invalid MAC Address Format."
+    ],
+    "upload_error_13": [
+      "シリアルの形式は正しくありません。",
+      "Invalid Serial number Format."
+    ],
+    "upload_error_14": [
+      "行が重複しています。",
+      "Duplicate line."
+    ],
+    "upload_error_15": [
+      "複数のユーザーにデバイスを同時に登録できません。",
+      "Duplicate import device."
+    ],
+    "import_error_1": [
+      "メールアドレスが存在しない。",
+      "Email doesn't exist in the company."
+    ],
+    "import_error_2": [
+      "保留リストに登録済みのデバイスです。",
+      "Device with MacAddress & Serial already add retention list."
+    ],
+    "import_warning_1": [
+      "デバイス未使用のため、保留リストに追加します。",
+      "Device with MacAddress & Serial is not available.add retention list."
+    ],
+    "import_error_3": [
+      "すでに登録済みのデバイスです。",
+      "Device was registered."
+    ],
+    "registration": [
+      "登録",
+      "Registration"
+    ],
+    "importSuccess": [
+      "デバイスの一括登録に成功しました。",
+      "Import data successful."
+    ],
+    "importSuccessWithWaiting": [
+      "データの一括登録に成功しましたが、登録保留中の項目があります。",
+      "Import data successful."
+    ],
+    "importSuccessWithRecordError": [
+      "デバイスの一括登録に一部成功しました。(失敗：${param}行目)詳細は「ステータス」欄の情報を確認してください。",
+      "Import data successful."
+    ],
+    "importFail": [
+      "データの取り込みに失敗しました。",
+      "Import data fail."
+    ],
+    "addWatingDevices":[
+      "保留中リストに${param}件追加しました。",
+      "Add ${param} item(s) in waiting devices list."
+    ],
+    "template":[
+      "テンプレート",
+      "Import template file"
+    ],
+    "aboutTemplate":[
+      "1.「テンプレート」ボタンから雛形のCSVファイルをダウンロードし、一括登録したいデバイス情報を記入してください。",
+      "1. Download template file and edit import devices in downloaded file."
+    ],
+    "aboutRegister":[
+      "3.「登録」ボタン押下でアップロードした有効なデータを登録します。",
+      "3. Click register button to regester valid data."
+    ]
+  }
+}

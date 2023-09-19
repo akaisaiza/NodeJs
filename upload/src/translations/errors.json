@@ -1,0 +1,40 @@
+{
+  "E_01": [
+    "メールアドレスは正しく入力して下さい。",
+    "Please enter your email address correctly."
+  ],
+  "E_02": [
+    "パスワードは8～20文字数で入力して下さい。",
+    "Please enter a password with 8 to 20 characters."
+  ],
+  "E_03": [
+    "パスワードは半角英数のみ(0-9 a-z A-Z) で入力してください。",
+    "Enter the password in half-width alphanumeric characters only (0-9 a-z A-Z)."
+  ],
+  "E_04": [
+    "パスワードとパスワード確認の入力値が違います。",
+    "The password and password confirmation input values are different."
+  ],
+  "E_05": [
+    "メールアドレスを入力してください。",
+    "Please enter email address."
+  ],
+  "E_06": [
+    "パスワードを入力して下さい。",
+    "Please enter the password."
+  ],
+  "E_07": [
+    "入力したメールアドレスは既に登録済みです。",
+    "The email address you entered is already registered."
+  ],
+  "E_08": [
+    "デバイスが見つかりませんでした。"
+  ],
+  "E_09": [
+    "MACアドレスを全て入力してください。"
+  ],
+  "E_10": [
+    "シリアルを全て入力してください。"
+  ]
+}
+

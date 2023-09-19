@@ -1,0 +1,366 @@
+{
+  "devices": {
+    "modelName": [
+      "モデル名",
+      "Model name"
+    ],
+    "macAddress": [
+      "MACアドレス",
+      "MAC address"
+    ],
+    "updateDate": [
+      "更新日時",
+      "Update date"
+    ],
+    "serial": [
+      "シリアル",
+      "Serial"
+    ],
+    "fw": [
+      "FW",
+      "FW"
+    ],
+    "operation": [
+      "オペレーション",
+      "Operation"
+    ],
+    "status": [
+      "ステータス",
+      "Status"
+    ],
+    "polling": [
+      "ポーリング",
+      "Polling"
+    ],
+    "group": [
+      "グループ",
+      "Group"
+    ],
+    "exclusionTarget": [
+      "除外対象",
+      "Exclusion target"
+    ],
+    "setTingUpdateDate": [
+      "実施日時",
+      "Setting date"
+    ],
+    "operating": [
+      "操作",
+      "operating"
+    ],
+    "operationalStatus": [
+      "運用状況",
+      "Operational status"
+    ],
+    "internetSet": [
+      "接続方式",
+      "Internet Set"
+    ],
+    "deviceIsUp": [
+      "デバイスが稼働している",
+      "Device is up"
+    ],
+    "deviceIsDown": [
+      "デバイスが停止している",
+      "Device is down"
+    ],
+    "deviceList": [
+      "デバイス一覧",
+      "Device list"
+    ],
+    "company": [
+      "会社",
+      "Company"
+    ],
+    "endUser": [
+      "デバイス登録アカウント",
+      "End-user"
+    ],
+    "groupAffiliation": [
+      "グループ所属",
+      "Group affiliation"
+    ],
+    "registerSelectedDeviceToGroup": [
+      "グループに登録",
+      "Register to group"
+    ],
+    "unregisterDevice": [
+      "デバイス登録解除",
+      "UnRegister device"
+    ],
+    "unregisterDeviceConfirm": [
+      "選択したデバイスを登録解除しますか？",
+      "Do you want to unregister selected device?"
+    ],
+    "deregisterDeviceSuccess": [
+      "デバイスの登録解除に成功しました。",
+      "Deregister all devices success."
+    ],
+    "allDevicesUnregisterer": [
+      "未登録デバイスが含まれているため、登録解除できません。",
+      "All devices were unregistered."
+    ],
+    "deregisterDeviceFails": [
+      "デバイスの登録解除に失敗しました。",
+      "Deregister all devices fails."
+    ],
+    "unregisterDeviceComplete": [
+      "登録解除を完了しました。${deregisterDevicesFalseCount}デバイスの登録解除に失敗しました。${unregisteredDevicesCount}デバイスは未登録のため、登録解除できません。",
+      "Deregister complete. Have ${deregisterDevicesFalseCount} devices succes. Have ${unregisteredDevicesCount} devices fails."
+    ],
+
+    "nonSupport": [
+      "非対応",
+      "Non-support"
+    ],
+    "disable": [
+      "無効",
+      "Disable"
+    ],
+    "send": [
+      "送信",
+      "Send"
+    ],
+    "cancel": [
+      "キャンセル",
+      "Cancel"
+    ],
+    "registration": [
+      "登録",
+      "Registration"
+    ],
+    "operationInstruction": [
+      "オペレーション指示",
+      "Operation instruction"
+    ],
+    "pollingIntervalChangeInstruction": [
+      "ポーリング間隔変更指示",
+      "Polling interval change instruction"
+    ],
+    "registerDeviceToGroup": [
+      "デバイスをグループに登録",
+      "Register device to group"
+    ],
+    "deviceInfo": [
+      "デバイス情報",
+      "Device information"
+    ],
+    "close": [
+      "閉じる",
+      "Close"
+    ],
+    "sendInstruction": [
+      "指示送信",
+      "Send instruction"
+    ],
+    "receiveInstruction": [
+      "指示受信",
+      "Receive instruction"
+    ],
+    "processing": [
+      "処理中",
+      "Processing"
+    ],
+    "done": [
+      "完了",
+      "Done"
+    ],
+    "fail": [
+      "失敗",
+      "Fail"
+    ],
+    "addSelectedDeviceToGroup": [
+      "選択したデバイスをグループに追加します。",
+      "Add selected devices to a group."
+    ],
+    "howToAdd": [
+      "追加方法",
+      "How to add"
+    ],
+    "addToExistingGroup": [
+      "既存のグループに追加",
+      "Add to existing group"
+    ],
+    "createNewGroup": [
+      "新しいグループを作成",
+      "Create new group"
+    ],
+    "groupToAdd": [
+      "追加するグループ",
+      "Group to add"
+    ],
+    "groupName": [
+      "グループ名",
+      "Group name"
+    ],
+    "category": [
+      "カテゴリー",
+      "Category"
+    ],
+    "pollingIntervalChange": [
+      "ポーリング間隔変更指示",
+      "Polling interval change instruction"
+    ],
+    "normalGroup": [
+      "通常グループ",
+      "Normal group"
+    ],
+    "ABTestGroup": [
+      "ABテストグループ",
+      "AB Test Group"
+    ],
+    "groupByNumberOfDevice": [
+      "デバイス数でグルーピング",
+      "Group by number of devices"
+    ],
+    "numberOfDeviceToBeGroup": [
+      "グルーピングするデバイス数",
+      "Number of devices to be grouped"
+    ],
+    "device": [
+      "デバイス",
+      "Device"
+    ],
+    "serviceStartDateTime": [
+      "サービス開始日時",
+      "Service start date and time"
+    ],
+    "firmware": [
+      "ファームウェア",
+      "firmware"
+    ],
+    "version": [
+      "バージョン",
+      "Version"
+    ],
+    "settingFile": [
+      "設定ファイル",
+      "Setting file"
+    ],
+    "intervalSetting": [
+      "間隔（設定）",
+      "Interval (setting)"
+    ],
+    "intervalCurrent": [
+      "間隔（現在）",
+      "Interval (current)"
+    ],
+    "deviceDetail": [
+      "デバイス詳細",
+      "Device Details"
+    ],
+    "pollingInterval": [
+      "ポーリング間隔",
+      "Polling interval"
+    ],
+    "pleaseSelectAnOperation": [
+      "オペレーションを選択してください。",
+      "Please select an operation."
+    ],
+    "selectOperationToInstruct": [
+      "に指示するオペレーションを選択してください",
+      "Please select an operation to instruct"
+    ],
+    "beLongToGroup": [
+      "所属している",
+      "Belong to"
+    ],
+    "notBeLongToGroup": [
+      "所属していない",
+      "Not belong"
+    ],
+    "mustEnterTheNumberOfGroup": [
+      "グルーピングするデバイス数を入力してください。",
+      "Enter the number of devices to be grouped."
+    ],
+    "groupDeviceSuccess": [
+      "グループへのデバイスの追加に成功しました。",
+      "You have successfully added devices to the group."
+    ],
+    "groupDeviceFail": [
+      "グループへのデバイスの追加に失敗しました。",
+      "Add devices to group failed."
+    ],
+    "pleaseSelectGroup": [
+      "グループを選択してください。",
+      "Please select a group."
+    ],
+    "groupDeviceStartMessage": [
+      "グループデバイス登録 ${groupCategory}「${groupName}」の登録とデバイスの追加中です。",
+      "Group device registration '${groupCategory}' '$ {groupName}' registration and device addition."
+    ],
+    "changeOperationConfirm": [
+      "デバイスに「${operation}」のオペレーションをしますか？",
+      "Do you want the devices to \"${operation}\" the operation?"
+    ],
+    "changePollingConfirm": [
+      "デバイスにポーリング間隔 「${polling}」 秒を指示しますか？",
+      "Do you want the devices to indicate polling interval \"${polling}\" seconds?"
+    ],
+    "descriptionMqtt": [
+      "リアルタイム通信モード"
+    ],
+    "mqttOnline":[
+      "オンライン"
+    ],
+    "descriptionMqttOnline":[
+      "接続中"
+    ],
+    "mqttOffline":[
+      "オフライン"
+    ],
+    "descriptionMqttOffline":[
+      "切断中"
+    ],
+    "descriptionHttps":[
+      "定期通信モード"
+    ],
+    "httpsExistPolling":[
+      "通信あり"
+    ],
+    "descriptionHttpsExistPollingNear":[
+      "10分以内に通信あり"
+    ],
+    "descriptionHttpsExistPolling":[
+      "24時間以内に通信あり"
+    ],
+    "httpsNotExistPolling":[
+      "通信なし"
+    ],
+    "descriptionHttpsNotExistPolling":[
+      "定期通信なし"
+    ],
+    "memonotice": [
+      "個人情報は入力しないでください。",
+      "Do not input personal information here."
+    ],
+    "memo": [
+      "メモ",
+      "Memo"
+    ],
+    "save": [
+      "保存",
+      "Save"
+    ],
+    "inputmemo": [
+      "メモを記入してください。",
+      "Please input memo."
+    ],
+    "deviceSearch":[
+      "デバイス検索",
+      "Device Search"
+    ],
+    "operationStatus":[
+      "オペレーション状態",
+      "Operation status"
+    ],
+    "fwupdateDate":[
+      "バージョンアップ日時",
+      "FW update date"
+    ],
+    "noDataDeviceDetail":[
+      "データはありません",
+      "Data not found"
+    ]
+  }
+}

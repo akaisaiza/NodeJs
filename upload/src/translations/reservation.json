@@ -1,0 +1,216 @@
+{
+  "reservation": {
+    "reservationList": [
+      "測定予約一覧",
+      "List of mesuring reservation"
+    ],
+    "historyList": [
+      "測定履歴",
+      "List of mesuring result"
+    ],
+    "historyReservation": [
+      "測定履歴",
+      "History of measuring"
+    ],
+    "modelName": [
+      "モデル名",
+      "Model name(Parent)"
+    ],
+    "macAddress": [
+      "対象デバイス",
+      "MAC address"
+    ],
+    "macAddressParent": [
+      "MACアドレス",
+      "MAC Address(Parent)"
+    ],
+    "target": [
+      "測定対象",
+      "Target of measuring"
+    ],
+    "method": [
+      "測定方法",
+      "Method of measuring"
+    ],
+    "serial": [
+      "シリアル",
+      "Serial(Parent)"
+    ],
+    "updateList": [
+      "選択した測定予約を削除",
+      "Delete selected reservation"
+    ],
+    "update": [
+      "編集",
+      "Edit"
+    ],
+    "delete": [
+      "削除",
+      "Delete"
+    ],
+    "incomplete": [
+      "未完了",
+      "Incomplete"
+    ],
+    "complete": [
+      "完了",
+      "Complete"
+    ],
+    "error": [
+      "エラー",
+      "Error"
+    ],
+    "measureType": [
+      "測定種別",
+      "Measuring type"
+    ],
+    "operating": [
+      "操作",
+      "Operating"
+    ],
+    "reservationResult": [
+      "測定結果",
+      "Result"
+    ],
+    "cancel": [
+      "キャンセル",
+      "cancel"
+    ],
+    "updateConfirm": [
+      "更新",
+      "Update"
+    ],
+    "titleUpdateReservation": [
+      "測定予約編集",
+      "Edit reservation"
+    ],
+    "close": [
+      "閉じる",
+      "Close"
+    ],
+    "titleUpdateError": [
+      "測定予約編集エラー",
+      "Update reservation error"
+    ],
+    "createAtFrom": [
+      "測定予約設定日(～から）",
+      "Created Date From"
+    ],
+    "createAtTo": [
+      "測定予約設定日(～まで）",
+      "Created Date To"
+    ],
+    "reservationAtFrom": [
+      "測定実行予定日(～から）",
+      "Executed Date From"
+    ],
+    "reservationAtTo": [
+      "測定実行予定日(～まで）",
+      "Executed Date To"
+    ],
+    "didReservationAtFrom": [
+      "測定実行日(～から）",
+      "Executed Date From"
+    ],
+    "didReservationAtTo": [
+      "測定実行日(～まで）",
+      "Executed Date To"
+    ],
+    "setDate": [
+      "測定予約設定日時",
+      "Created Date"
+    ],
+    "runDate": [
+      "測定実行日時",
+      "Executed Date"
+    ],
+    "createDate": [
+      "測定予約設定日時",
+      "Created Date and Time"
+    ],
+    "reservationDate": [
+      "測定実行予定日時",
+      "Executed Date and Time"
+    ],
+    "dns": [
+      "DNS応答時間",
+      "Reply time of DNS"
+    ],
+    "ping": [
+      "ping応答時間",
+      "Reply time of PING"
+    ],
+    "lan": [
+      "LAN側ダウンロード",
+      "Download local side"
+    ],
+    "immediate": [
+      "今すぐ測定 ",
+      "Measuring immediately"
+    ],
+    "specific": [
+      "日時を指定して測定",
+      "Measuring at specified date and time"
+    ],
+    "regular": [
+      "定期的に測定",
+      "Measuring at regular time"
+    ],
+    "internet": [
+      "インターネット側",
+      "Internet Side"
+    ],
+    "local": [
+      "ローカル側",
+      "Local Side"
+    ],
+    "titleDeleteReservation": [
+      "測定予約削除",
+      "Delete measurement reservation"
+    ],
+    "deleteReservationConfirm": [
+      "選択した測定予約を削除しますか？",
+      "Are you sure you want to delete the selected measurement reservation?"
+    ],
+    "deleteReservationSuccess": [
+      "測定予約を削除しました。",
+      "The measurement reservation has been deleted."
+    ],
+    "titleDeleteError": [
+      "測定予約削除エラー",
+      "Measurement reservation deletion error"
+    ],
+    "messageDeleteError": [
+      "測定予約を削除できません。",
+      "The measurement reservation cannot be deleted."
+    ],
+    "alreadyExecuted": [
+      "測定は実行済です。",
+      "The measurement has been performed."
+    ],
+    "measureNotFound": [
+      "測定予約がありません。",
+      "Measure not found"
+    ],
+    "updateReservationSuccess": [
+      "測定予約を更新しました。",
+      "The measurement reservation was updated."
+    ],
+    "cannotUpdateReservation": [
+      "測定予約を更新できません。",
+      "Unable to update the measurement reservation."
+    ],
+    "limitUpdateReservation": [
+      "測定予約可能な上限に達しました。",
+      "The upper limit of the measurement reservation is reached."
+    ],
+    "numberReserUpper": [
+      "時間を分散させてください。",
+      "Please choose another time. "
+    ],
+    "wan": [
+      "WAN側スループット",
+      "Throughput of WAN side"
+    ]
+  }
+}

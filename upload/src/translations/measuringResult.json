@@ -1,0 +1,96 @@
+{
+  "measuringResult":{
+    "measuringResult":[
+      "測定結果",
+      "Measuring Result"
+    ],
+    "macAddress": [
+      "対象デバイス",
+      "MAC Address"
+    ],
+    "type":[
+      "タイプ",
+      "Type"
+    ],
+    "measuringTarget":[
+      "測定対象",
+      "Measuring Target"
+    ],
+    "lanDownloadSpeedAvr":[
+      "ダウンロード(平均)",
+      "Download (average)"
+    ],
+    "past1Week":[
+      "過去１週間",
+      "Past 1 week"
+    ],
+    "past2Weeks":[
+      "過去２週間",
+      "Past 2 weeks"
+    ],
+    "past4Weeks":[
+      "過去４週間",
+      "Past 4 weeks"
+    ],
+    "past7Times":[
+      "過去７回分",
+      "Past 7 times"
+    ],
+    "past14Times":[
+      "過去１４回分",
+      "Past 14 times"
+    ],
+    "past28Times":[
+      "過去２８回分",
+      "Past 28 times"
+    ],
+    "mesuringType":[
+      "測定種別",
+      "Measuring Type"
+    ],
+    "lanDownload":[
+      "LAN側ダウンロード",
+      "LAN Side Download"
+    ],
+    "pingResponseTime":[
+      "ping応答時間",
+      "ping Response Time"
+    ],
+    "download":[
+      "ダウンロード",
+      "Download"
+    ],
+    "close":[
+      "閉じる",
+      "Close"
+    ],
+    "item":[
+      "件",
+      "Item"
+    ],
+    "measuringResultTooltip":[
+      "測定結果をcsv形式ファイルにしてダウンロードできます",
+      "Download the measurement result as a CSV format file"
+    ],
+    "barGraphTitle":[
+      "測定結果の推移",
+      "Transition of measurement results"
+    ],
+    "wanDownload":[
+      "WAN側スループット",
+      "Throughput of WAN side"
+    ],
+    "dnsReplyTime":[
+      "DNS応答時間",
+      "Reply time of dns"
+    ],
+    "wanUploadSpeedAvr":[
+      "アップロード(平均)",
+      "Upload (average)"
+    ],
+    "wanDownloadSpeedAvr":[
+      "ダウンロード(平均)",
+      "Download (average)"
+    ]
+  }
+}
